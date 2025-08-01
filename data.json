@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Thành Công (CEO)",
+    "zalo": "0818458910",
+    "facebook": "https://www.facebook.com/share/19QPjVsxkK/?mibextid=wwXIfr",
+    "deposit": 200000000,
+    "verified": true
+  },
+  { "name": "Nguyễn Văn A", "zalo": "0901000001", "facebook": "https://fb.com/a1", "deposit": 10000000, "verified": false },
+  { "name": "Nguyễn Văn B", "zalo": "0901000002", "facebook": "https://fb.com/a2", "deposit": 15000000, "verified": false },
+  { "name": "Nguyễn Văn C", "zalo": "0901000003", "facebook": "https://fb.com/a3", "deposit": 12000000, "verified": false },
+  { "name": "Nguyễn Văn D", "zalo": "0901000004", "facebook": "https://fb.com/a4", "deposit": 18000000, "verified": false },
+  { "name": "Nguyễn Văn E", "zalo": "0901000005", "facebook": "https://fb.com/a5", "deposit": 20000000, "verified": false },
+  { "name": "Nguyễn Văn F", "zalo": "0901000006", "facebook": "https://fb.com/a6", "deposit": 25000000, "verified": false },
+  { "name": "Nguyễn Văn G", "zalo": "0901000007", "facebook": "https://fb.com/a7", "deposit": 30000000, "verified": false },
+  { "name": "Nguyễn Văn H", "zalo": "0901000008", "facebook": "https://fb.com/a8", "deposit": 40000000, "verified": false },
+  { "name": "Nguyễn Văn I", "zalo": "0901000009", "facebook": "https://fb.com/a9", "deposit": 35000000, "verified": false },
+  { "name": "Nguyễn Văn K", "zalo": "0901000010", "facebook": "https://fb.com/a10", "deposit": 50000000, "verified": false },
+  { "name": "Nguyễn Văn L", "zalo": "0901000011", "facebook": "https://fb.com/a11", "deposit": 22000000, "verified": false },
+  { "name": "Nguyễn Văn M", "zalo": "0901000012", "facebook": "https://fb.com/a12", "deposit": 15000000, "verified": false },
+  { "name": "Nguyễn Văn N", "zalo": "0901000013", "facebook": "https://fb.com/a13", "deposit": 25000000, "verified": false },
+  { "name": "Nguyễn Văn P", "zalo": "0901000014", "facebook": "https://fb.com/a14", "deposit": 27000000, "verified": false },
+  { "name": "Nguyễn Văn Q", "zalo": "0901000015", "facebook": "https://fb.com/a15", "deposit": 30000000, "verified": false },
+  { "name": "Nguyễn Văn R", "zalo": "0901000016", "facebook": "https://fb.com/a16", "deposit": 40000000, "verified": false },
+  { "name": "Nguyễn Văn S", "zalo": "0901000017", "facebook": "https://fb.com/a17", "deposit": 38000000, "verified": false },
+  { "name": "Nguyễn Văn T", "zalo": "0901000018", "facebook": "https://fb.com/a18", "deposit": 33000000, "verified": false },
+  { "name": "Nguyễn Văn U", "zalo": "0901000019", "facebook": "https://fb.com/a19", "deposit": 29000000, "verified": false },
+  { "name": "Nguyễn Văn V", "zalo": "0901000020", "facebook": "https://fb.com/a20", "deposit": 45000000, "verified": false }
+]
